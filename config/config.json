@@ -1,0 +1,23 @@
+{"pagetitle":"AKUTrs",
+"currentissue":"akut339",
+"issues":{"akut338":[{"id":"aufgefallen",
+		"title":"Aufgefallen!",
+		"length":100},
+		{"id":"dertaeglichewahnsinn",
+		"title":"Der tägliche Wahnsinn",
+		"length":200},
+		{"id":"reisefieber",
+		"title":"Reisefieber",
+		"length":200}],
+	"akut339":[
+		{"id":"aufgefallen",
+		"title":"Aufgefallen!",
+		"length":100},
+		{"id":"dertaeglichewahnsinn",
+		"title":"Der tägliche Wahnsinn",
+		"length":200},
+		{"id":"reisefieber",
+		"title":"Reisefieber",
+		"length":200}
+	]}
+}
